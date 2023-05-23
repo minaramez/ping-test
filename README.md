@@ -4,12 +4,12 @@ This script is designed to test network connectivity and troubleshoot any issues
 
 ## Prerequisites
 
-- CentOS 8 virtual machine
+- CentOS 8
 - Python 3
 
 ## Usage
 
-1. Ensure that you have Python 3 installed on your CentOS 8 virtual machine.
+1. Ensure that you have Python 3 installed on your CentOS 8.
 2. Open a terminal and navigate to the directory where the script is located.
 3. Run the script using the following command:
 
@@ -51,8 +51,8 @@ The `run_code()` function is responsible for executing the appropriate test base
 
 **Note:** The script clears the terminal screen upon execution for a better user experience.
 
-Feel free to reach out to the system administrator with accurate test results for further assistance.
 
-## Author
+## License
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the script according to the terms of the license.
 
-This script was written by Mina Ramez Farag.
+By utilizing this script, organizations can proactively identify potential security threats, analyze failed login attempts, and enhance their overall security infrastructure.
